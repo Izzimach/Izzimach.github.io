@@ -1,0 +1,6 @@
+# jekyll build results
+_site/
+
+
+# vim swap files
+*~
